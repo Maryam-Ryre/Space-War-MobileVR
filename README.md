@@ -15,10 +15,10 @@ Experience cool boosters and sound effects along the gameplay!
 * Optimized for mobile VR
 
 Scenes
-![Image Alt Text](MainMenu.JPG)
+![Image Alt Text](SpaceWar-VR/MainMenu.JPG)
 
-![Image Alt Text](Instructions.JPG)
+![Image Alt Text](SpaceWar-VR/Instructions.JPG)
 
-![Image Alt Text](GamePlay.JPG)
+![Image Alt Text](SpaceWar-VR/GamePlay.JPG)
 
-![Image Alt Text](GameOver.JPG)
+![Image Alt Text](SpaceWar-VR/GameOver.JPG)
