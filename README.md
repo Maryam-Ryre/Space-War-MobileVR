@@ -13,3 +13,12 @@ Experience cool boosters and sound effects along the gameplay!
 * Optimal score calculation and Highest Score for each level
 * Different boosters on planet teleportation!
 * Optimized for mobile VR
+
+Scenes
+![Image Alt Text](MainMenu.JPG)
+
+![Image Alt Text](Instructions.JPG)
+
+![Image Alt Text](GamePlay.JPG)
+
+![Image Alt Text](GameOver.JPG)
